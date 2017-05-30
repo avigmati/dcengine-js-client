@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Client library for DCEngine.",
   "homepage": "https://github.com/avigmati/dcengine-js-client",
+  "url": "https://github.com/avigmati/dcengine-js-client",
   "main": "dist/dcengine.js",
   "module": "src/index.js",
   "scripts": {
@@ -11,7 +12,7 @@
   },
   "keywords": [
     "django",
-    "django-cahnnels",
+    "django-channels",
     "rpc"
   ],
   "author": "avigmati@gmail.com",
