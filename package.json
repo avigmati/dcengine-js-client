@@ -1,7 +1,8 @@
 {
   "name": "dcengine-client",
   "version": "1.0.0",
-  "description": "Client library for dcengine.",
+  "description": "Client library for DCEngine.",
+  "homepage": "https://github.com/avigmati/dcengine-js-client",
   "main": "dist/dcengine.js",
   "module": "src/index.js",
   "scripts": {
