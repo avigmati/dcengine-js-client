@@ -4,6 +4,9 @@
   "description": "Client library for DCEngine.",
   "homepage": "https://github.com/avigmati/dcengine-js-client",
   "url": "https://github.com/avigmati/dcengine-js-client",
+  "repository": {
+    "type" : "git", "url" : "https://github.com/avigmati/dcengine-js-client"
+  },
   "main": "dist/dcengine.js",
   "module": "src/index.js",
   "scripts": {
